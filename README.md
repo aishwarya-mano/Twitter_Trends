@@ -4,4 +4,7 @@ Leveraged tweet data using the twitter API and displayed the same on a HeatMap u
 
 Used the Apache Kafka to create a processing queue for the Tweets that are delivered by the Twitter Streaming API.
 Used Amazon SNS service to update the status processing on each tweet so the UI can refresh.
-Integrated the third party cloud service API into the Tweet processing flow.  
+Integrated the third party cloud service API into the Tweet processing flow. 
+
+
+
